@@ -59,6 +59,14 @@ Note: Values are as defined in the BOOK entry for each Spell Tome, they will dis
 | ------------------------------ | -------- | --- |
 | Value                          |  375     | --- |
 
+### **Location**
+
+Any NPC/Chest pulling from:
+
+- LItemSpellTomes50Illusion
+- LItemSpellTomes50AllIllusion
+- DLC2LItemSpellTomes50Illusion
+
 ___
 
 ## Spell Tome: Immobilizing Grasp
@@ -66,6 +74,14 @@ ___
 | Spell Tome: Immobilizing Grasp | Original | New |
 | ------------------------------ | -------- | --- |
 | Value                          |  800     | --- |
+
+
+### **Location**
+
+Any NPC/Chest pulling from:
+- LItemSpellTomes75Illusion
+- LItemSpellTomes75AllIllusion
+- DLC2LItemSpellTomes75Illusion
 
 ___
 
@@ -75,15 +91,7 @@ ___
 | ------------------------------ | -------- | --- |
 | Value                          |  1500    | --- |
 
+### **Location**
 
-- Immobilizing Grasp
-	- Expert spell
-	- Costs the same as the `Immobilize` spell
-	- Affects living creatures up to lvl 15
-	- Paralyzes for 10 seconds
-
-- Paralyzing Embrace
-	- Master spell
-	- Costs the same as the `Paralysis` spell
-	- Affects living creatures up to lvl 20
-	- Paralyzes for 10 seconds
+Any NPC/Chest pulling from:
+- MGRitualIllusionBooks

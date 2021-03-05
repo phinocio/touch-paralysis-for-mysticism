@@ -4,10 +4,10 @@
 
 - [Why?](#why)
 - [What It does](#what-it-does)
+- [Changelog](#changelog)
 - [Thanks](#thanks)
 
 <!-- /TOC -->
-
 # Why? 
 
 Playing a character and I wanted to use touch spells to Paralyze enemies instead of the ones that already are present in Mysticism. Releasing as a mod 'cause I figure some other people might enjoy it. Literally first ever SSE and Magic mod, feel free to yell at me for everything I did wrong/bad, or suggest different values for things. (One thing I was thinking was maybe longer Paralysis duration to "reward" getting close enough to paralyze the target).
@@ -54,6 +54,10 @@ Playing a character and I wanted to use touch spells to Paralyze enemies instead
 	- Teaches the spell `Paralyzing Embrace`
 	- Acquired in the same way as `Spell Tome: Paralysis`
 		- MGRitualIllusionBooks
+
+# Changelog
+
+See [CHANGELOG.md](https://github.com/phinocio/touch-paralysis-for-mysticism/CHANGELOG.md) for more in-depth info.
 
 # Thanks
 
