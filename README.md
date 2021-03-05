@@ -12,6 +12,25 @@
 
 Playing a character and I wanted to use touch spells to Paralyze enemies instead of the ones that already are present in Mysticism. Releasing as a mod 'cause I figure some other people might enjoy it. Literally first ever SSE and Magic mod, feel free to yell at me for everything I did wrong/bad, or suggest different values for things. (One thing I was thinking was maybe longer Paralysis duration to "reward" getting close enough to paralyze the target).
 
+# Installation
+
+Simply load it after `MysticismMagic.esp`.
+
+# Compatibility
+
+- **Incompatible With**
+	- Anything that touches the following leveled lists
+		- LItemSpellTomes50Illusion
+		- LItemSpellTomes50AllIllusion
+		- DLC2LItemSpellTomes50Illusion
+		- LItemSpellTomes75Illusion
+		- LItemSpellTomes75AllIllusion
+		- DLC2LItemSpellTomes75Illusion
+		- MGRitualIllusionBooks
+
+If a mod is incompatible, let me know and I can likely make a patch for it.
+
+
 # What It does
 
 ## Added Spells
