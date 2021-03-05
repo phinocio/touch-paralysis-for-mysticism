@@ -57,7 +57,7 @@ Playing a character and I wanted to use touch spells to Paralyze enemies instead
 
 # Changelog
 
-See [CHANGELOG.md](https://github.com/phinocio/touch-paralysis-for-mysticism/CHANGELOG.md) for more in-depth info.
+See [CHANGELOG.md](https://github.com/phinocio/touch-paralysis-for-mysticism/blob/master/CHANGELOG.md) for more in-depth info.
 
 # Thanks
 
