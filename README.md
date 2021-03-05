@@ -63,4 +63,4 @@ See [CHANGELOG.md](https://github.com/phinocio/touch-paralysis-for-mysticism/blo
 
 Thanks to Simon for being such a cool dude and making all the mods he has.
 
-Thanks to Simon and his server for helping me with questions I had while making this.
+Thanks to Simon and his Discord server for helping me with a few questions I had while making this.
